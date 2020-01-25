@@ -1,0 +1,42 @@
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\SpecEditor.exe.config
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\SpecEditor.exe
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\SpecEditor.pdb
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\EntityFramework.dll
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\EntityFramework.xml
+D:\Projects\SpecEditor\SpecEditor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SpecEditor\SpecEditor\obj\Debug\SpecEditor.csprojResolveAssemblyReference.cache
+D:\Projects\SpecEditor\SpecEditor\obj\Debug\SpecEditor.frm_Main.resources
+D:\Projects\SpecEditor\SpecEditor\obj\Debug\SpecEditor.Properties.Resources.resources
+D:\Projects\SpecEditor\SpecEditor\obj\Debug\SpecEditor.csproj.GenerateResource.Cache
+D:\Projects\SpecEditor\SpecEditor\obj\Debug\SpecEditor.csproj.CoreCompileInputs.cache
+D:\Projects\SpecEditor\SpecEditor\obj\Debug\SpecEditor.exe
+D:\Projects\SpecEditor\SpecEditor\obj\Debug\SpecEditor.pdb
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\obj\Debug\SpecEditor.csprojAssemblyReference.cache
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\obj\Debug\SpecEditor.frm_Main.resources
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\obj\Debug\SpecEditor.Properties.Resources.resources
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\obj\Debug\SpecEditor.csproj.GenerateResource.cache
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\obj\Debug\SpecEditor.exe
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\obj\Debug\SpecEditor.pdb
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\SpecEditor.exe.config
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\SpecEditor.exe.manifest
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\SpecEditor.application
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\SpecEditor.exe
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\SpecEditor.pdb
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\EntityFramework.dll
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\EntityFramework.xml
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\obj\Debug\SpecEditor.exe.manifest
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\obj\Debug\SpecEditor.application
+D:\Software Development\Repositories\SpecEditor\SpecEditor\SpecEditor\obj\Debug\SpecEditor.csproj.CopyComplete
