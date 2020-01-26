@@ -666,7 +666,7 @@ namespace SpecEditor
 			ddl_Schema.DataSource = null;
 			ddl_Database.DataSource = null;
 
-			//SQLHelper.AddServers(db);
+			SQLHelper.AddServers(db);
 
 			HandleSQLHelperMessages();
 
@@ -988,6 +988,7 @@ namespace SpecEditor
 			{
 				tssl_Status.Text =
 					"One or more columns have a null or empty column name. All columns require a name to be defined in the header row. Unable to process file.";
+				Message(tssl_Status.Text, "INVALID IMPORT FILE", false, MessageBoxButtons.OK, MessageBoxIcon.Error);
 				return null;
 			}
 
