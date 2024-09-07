@@ -7,8 +7,9 @@ namespace SpecEditor.Models.Context
 	public partial class SpecEditorContext : DbContext
 	{
 		public SpecEditorContext()
-			: base("name=SpecEditor")
-		{
+            //: base("name=SpecEditor")
+			: base("name=LocalConnection")
+        {
 
 		}
 
